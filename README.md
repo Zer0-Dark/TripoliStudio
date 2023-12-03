@@ -1,3 +1,3 @@
 # an online store
 
-## STILL WORKING AT IT
+## STILL WORKING ON IT
